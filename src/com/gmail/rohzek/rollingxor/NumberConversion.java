@@ -30,7 +30,7 @@ public class NumberConversion
 		
 		try 
 		{
-			byte[] bytes = Hex.decodeHex(convert);
+			byte[] bytes = Hex.decodeHex(convert.toCharArray());
 			output = new String(bytes, "UTF-8");
 		} 
 		catch (DecoderException e) 
