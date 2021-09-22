@@ -1,6 +1,6 @@
 # RollingXOREncryptor
 
-![alt text](https://i.imgur.com/0qoRgZf.png "Example Image")
+![alt text](https://github.com/Rohzek/RollingXOREncryptor/blob/master/perm.png?raw=true "Example Image")
 
 This program takes text in, and puts hex out that's been encrypted with Rolling [XOR](https://en.wikipedia.org/wiki/XOR_cipher) type encryption.
 It can also take encrypted hex in, and put out original the decrypted text.
